@@ -1,6 +1,6 @@
 # hw_pr2_pks3
 
-Practical Homework 2 for PKS
+Practical #2. Homework for PKS (Программирование корпоративных систем)
 
 
 ЭФБО-03-22
